@@ -4,6 +4,9 @@
 
 ---
 
+<img width="655" height="494" alt="weathersphere" src="https://github.com/user-attachments/assets/10370151-f873-4ba5-a935-3baf17c68b14" />
+
+
 ## ✨ Features
 
 - 🛰️ **Real-time Weather Data**  
