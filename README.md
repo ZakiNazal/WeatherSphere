@@ -22,7 +22,7 @@
   Add and track weather in multiple locations.
 
 ---
-
+![alt text](Screenshot_1783540366.png) ![alt text](Screenshot_1783540390.png) ![alt text](Screenshot_1783540566.png)
 ## 🚀 Getting Started
 
 ### Prerequisites

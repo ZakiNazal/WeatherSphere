@@ -36,7 +36,7 @@ class SunriseSunsetWidget extends StatelessWidget {
           ),
           const SizedBox(height: 14),
           SizedBox(
-            height: 120,
+            height: 150,
             child: CustomPaint(
               painter: _SunArcPainter(progress),
               child: const SizedBox.expand(),

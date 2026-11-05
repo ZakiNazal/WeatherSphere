@@ -115,7 +115,8 @@ class _SearchPageState extends State<SearchPage> {
           decoration: InputDecoration(
             hintText: 'Enter city name…',
             hintStyle: TextStyle(color: Colors.white.withValues(alpha: 0.4)),
-            prefixIcon: const Icon(Icons.location_city_rounded, color: Colors.white54),
+            prefixIcon:
+                const Icon(Icons.location_city_rounded, color: Colors.white54),
             suffixIcon: IconButton(
               icon: const Icon(Icons.search_rounded, color: Colors.white70),
               onPressed: () => _search(_controller.text),
@@ -213,7 +214,7 @@ class _SearchPageState extends State<SearchPage> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   Icon(WeatherIcon.getIcon(w.mainCondition),
-                      size: 64, color: Colors.white),
+                      size: 70, color: Colors.white),
                   const SizedBox(height: 12),
                   Text(w.cityName,
                       style: const TextStyle(
